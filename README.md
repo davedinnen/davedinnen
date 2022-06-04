@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @davedinnen
+- 👀 I’m interested in visualising data insight
+- 🌱 I’m currently learning Python and all about Crypto and NFTs
